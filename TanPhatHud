@@ -176,7 +176,7 @@ hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Respa
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 Window = Fluent:CreateWindow({
     Title = "TanPhat HUD",
-    SubTitle="[Premium]", 
+    SubTitle="Cháu nào thấy lỗi liên hệ Facebook", 
     TabWidth=155, 
     Theme="Darker",
     Acrylic=false,
@@ -2378,7 +2378,7 @@ Tabs.Info:AddButton({
     end
 })
 Tabs.Info:AddParagraph({
-    Title="Nguoi Lam",
+    Title="Dương Tấn Phát",
     Content="Credits"
 })
 local executorName
