@@ -2367,7 +2367,7 @@ Tabs.Info:AddButton({
     Title="TanPhat HUD",
     Description="TikTok",
     Callback=function()
-        setclipboard(tostring("tiktok.com/@duongtanphat14072014"))
+        setclipboard(tostring("tiktok.com/@duongtanphat14072013"))
     end
 })
 Tabs.Info:AddButton({
